@@ -29,7 +29,7 @@ With a centralized database and an automated, secure, and standardized data inge
 ---
 
 ## Architecture
-![End-to-End Data Flow](fluxo_dados.png)
+![End-to-End Data Flow](Fluxo Dados.png)
 
 ---
 
