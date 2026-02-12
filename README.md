@@ -67,4 +67,4 @@ The dashboard does not yet contain real match data (matches played, goals scored
   https://www.notion.so/Football-Performance-Financial-Control-End-to-End-Data-Project-2f03bca111ad80d88bf7c9f00543b6c4
 
 - **Dashboard (Power BI)**  
-  https://app.powerbi.com/view?r=eyJrIjoiYzlhZjMxYjEtYjUzYS00YjJiLWExMWEtYWRhYTYzZWM3ZjMxIiwidCI6IjNhNzhiMGNkLTdjOGUtNDkyOS04M2Q1LTE5MGE2Y2MwMTM2NSJ9
+  https://bit.ly/dashboard-football-performance-financial-control
